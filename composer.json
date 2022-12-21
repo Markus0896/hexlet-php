@@ -1,0 +1,10 @@
+{
+    "name": "mark_khasanov/hexlet-php",
+    "description": "proj1",
+    "authors": [
+        {
+            "name": "Mark"
+        }
+    ],
+    "require": {}
+}
